@@ -5,6 +5,12 @@ import java.util.Queue;
 import java.util.Scanner;
 
 public class Java2846_UphillRoad {
+    /*
+        백준
+        문제: 오르막길
+
+        https://www.acmicpc.net/problem/2846
+    */
 
     public static int N;
     public static int[] hill;

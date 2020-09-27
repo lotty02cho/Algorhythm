@@ -3,6 +3,12 @@ package backjoon;
 import java.util.*;
 
 class Java2742_Fibonachi {
+    /*
+        백준
+        문제: 피보나치
+
+        https://www.acmicpc.net/problem/2742
+    */
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);

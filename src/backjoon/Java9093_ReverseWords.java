@@ -4,6 +4,12 @@ import java.io.*;
 import java.util.Arrays;
 
 public class Java9093_ReverseWords {
+    /*
+        백준
+        문제: 단어 뒤집기
+
+        https://www.acmicpc.net/problem/1592
+    */
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

@@ -4,7 +4,12 @@ import java.util.*;
 import java.io.*;
 
 public class Java1592_YoungsikAndFriends {
+    /*
+        백준
+        문제: 영식이와 친구들
 
+        https://www.acmicpc.net/problem/1592
+    */
     static int N;
     static int M;
     static int L;
